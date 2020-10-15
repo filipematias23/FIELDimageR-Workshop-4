@@ -1,12 +1,8 @@
 # FIELDimageR Workshop Series - Example 04 : 
 
-<br />
-
 <p align="center">
 <a href="https://github.com/OpenDroneMap/FIELDimageR"><img src="https://raw.githubusercontent.com/filipematias23/images/master/readme/FIELDimageR.jpg" width=60% height=60% title="Watch the video"></a>
 </p>
-
-<br />
 
 ## "FIELDimageR pipeline:  Image analysis applied to plant breeding"
 
@@ -26,9 +22,7 @@
 
 ## [YouTube Tutorial](https://www.youtube.com/watch?v=2khnveYFov8)
 
-<br />
-
-* **PhenomeForce (Fridays Hands-On: A Workshop Series in Data+Plant Sciences)**: https://phenome-force.github.io/FIELDimageR-workshop/
+* **PhenomeForce (Fridays Hands-On: A Workshop Series in Data+Plant Sciences)**:
 <p align="center">
 <a href="https://www.youtube.com/watch?v=2khnveYFov8&t=3345s"><img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_1.jpg" width=60% height=60% title="Watch the video"></a>
 </p>
