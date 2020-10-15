@@ -31,4 +31,5 @@
 
 ## References:
 * [FIELDimageR](https://github.com/OpenDroneMap/FIELDimageR)
+* [YouTube Channel](https://www.youtube.com/channel/UCeOLCtHrnh2tOosDdRobe8g?view_as=subscriber)
 * Matias FI, Caraza-Harter MV, Endelman JB. FIELDimageR: An R package to analyze orthomosaic images from agricultural field trials. The Plant Phenome J. 2020; https://doi.org/10.1002/ppj2.20005
